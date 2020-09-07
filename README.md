@@ -28,5 +28,4 @@ npm run s
 
 
 ## 🔗 Reference
-* [git/GitHub 활용](https://docs.google.com/presentation/d/1Gw_l-Yp8q7cLpcEQE2PkqU4Lumd_A-bNLo1vW3oeAdA/edit#slide=id.p)
 * [Git flow](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
