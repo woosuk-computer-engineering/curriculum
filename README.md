@@ -2,11 +2,11 @@
 * [Web Skills](https://github.com/cbnuswoss/web-skills)를 이용하여 우리학교 CS 커리큘럼 페이지 만들기
 
 ## ✋ Team Members
-* ![xxx](https://img.shields.io/badge/xxx-blue)
+* ![윤승현](https://img.shields.io/badge/xxx-blue)
 
-* ![xxx](https://img.shields.io/badge/xxx-blue)
+* ![이근호](https://img.shields.io/badge/xxx-blue)
 
-* ![xxx](https://img.shields.io/badge/xxx-blue)
+* ![최혁수](https://img.shields.io/badge/xxx-blue)
 
 
 ## ⚡ npm scripts
