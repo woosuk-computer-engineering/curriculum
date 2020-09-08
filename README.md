@@ -23,8 +23,6 @@ npm run s
 
 ## 📖 Wiki
 * [Guide](https://github.com/woosuk-computer-engineering/curriculum/wiki/Guide)
-* [커밋 규칙](https://github.com/opensource-community-Team-6/computer-science-curriculum/wiki/Commit)
-* [브랜치 규칙](https://github.com/opensource-community-Team-6/computer-science-curriculum/wiki/Branch)
 
 
 ## 🔗 Reference
