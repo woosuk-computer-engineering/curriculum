@@ -1,6 +1,6 @@
-export const informationCommunicationCollection = {
-	name: "충북대학교 정보통신공학부 커리큘럼",
-	img:"assets/logo/충북대학교.png",
+export const futureCollection = {
+	name: "진로",
+	img:"assets/logo/우석대학교.png",
 	areas: [
 		{
 			name: "1학년",

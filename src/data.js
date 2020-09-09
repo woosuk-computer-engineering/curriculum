@@ -1,14 +1,14 @@
 import {computerScienceCollection} from "./data/computer_science.js";
-import {softwareCollection} from "./data/software.js";
-import {informationCommunicationCollection} from "./data/information_communication.js";
-import {easyCourseCollection} from "./data/easy_course.js";
+import {graphCollection} from "./data/graphs_of_courses.js";
+import {futureCollection} from "./data/plan_future.js";
+import {certificateCollection} from "./data/certificate.js";
 
 /**
  * All available collections.
  */
 export const collections = [
 	computerScienceCollection,
-	softwareCollection,
-	informationCommunicationCollection,
-	easyCourseCollection,
+	graphCollection,
+	futureCollection,
+	certificateCollection,
 ];
