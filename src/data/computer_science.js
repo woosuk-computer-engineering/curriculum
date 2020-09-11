@@ -49,11 +49,10 @@ export const computerScienceCollection = {
 			name: "2학년",
 			skills: [
 				{
-					name: "자료구조",
-					necessary:true,
+					name: "논리회로",
 					grade:3,
                description: {
-				  text: "효율적이고 명확한 자료의 표현과 처리를 위한 자료구조의 추상적인 정의방법과 기초 자료 구조의 구현법을 다룬다.",
+				  text: "컴퓨터의 내부회로의 기본이 되는 조합 및 순차 논리회로, 기억장치, 레지스터 등의 구성 및 동작원리를 익힌다.효율적이고 명확한 자료의 표현과 처리를 위한 자료구조의 추상적인 정의방법과 기초 자료 구조의 구현법을 다룬다.",
 						
 					},
 					skills: [
@@ -69,10 +68,11 @@ export const computerScienceCollection = {
 					]
 				},
 				{
-					name: "논리회로",
+					name: "자료구조",
+					necessary:true,
 					grade:3,
 					description: {
-						text: "컴퓨터의 내부회로의 기본이 되는 조합 및 순차 논리회로, 기억장치, 레지스터 등의 구성 및 동작원리를 익힌다.",
+						text: "효율적이고 명확한 자료의 표현과 처리를 위한 자료구조의 추상적인 정의방법과 기초 자료 구조의 구현법을 다룬다.",
 						
 					},
 				},
@@ -89,14 +89,6 @@ export const computerScienceCollection = {
 					grade:3,
 					description: {
 						text: "다중 환경 운영체제로 널리 사용되는 리눅스 시스템의 명령어와 응용프로그램의 사용법을 배우고, 리눅스 서버의 구축 및 관리 방법과 활용하는 방법을 강의하고 실습한다.",
-						
-					},
-				},
-				{
-					name: "디지털콘텐츠 공학",
-					grade:3,
-					description: {
-						text: "디지털콘텐츠(DC)의 개념과 특징, DC의 종류별 기술적 요소, DC의 저작권 및 유통에 필요한 기술 그리고 최신 디지털콘텐츠 산업 동향과 응용 등을 다룬다.",
 						
 					},
 				},
@@ -131,14 +123,6 @@ export const computerScienceCollection = {
 					grade:3,
 					description: {
 						text: "학과 교수 전원이 참여하여 팀 티칭을 수행한다. 수강학생 2-3인으로 팀을 구성하여 참여교수 당 일정 팀을 지도한다. 팀별 주제를 정해 1학기 동안 프로그래밍 프로젝트를 수행한다. 4학년 프로젝트 실무 과목과 연계하여 진행한다.",
-						
-					},
-				},
-				{
-					name: "프로그래밍어론",
-					grade:3,
-					description: {
-						text: "프로그래밍 언어의 정의 및 형식과 구현방법을 다룬다.",
 						
 					},
 				},
@@ -196,22 +180,6 @@ export const computerScienceCollection = {
 					grade:3,
 					description: {
 						text: "컴퓨터 응용 분야에서 사용되는 대표적인 알고리즘들을 통하여 알고리즘을 설계하고 분석하는 방법을 학습하고 문제 해결을 위한 최적의 알고리즘을 작성하는 능력을 기른다.",
-						
-					},
-				},
-				{
-					name: "XML프로그래밍",
-					grade:3,
-					description: {
-						text: "특정 플랫폼과 프로그램에 독립적인, 데이터 형식 기술 언어인 XML언어와 관련된 기술들에 대하여 교육한다. XML 기본 문법, DTD, DOM, SAX, Schema, XSL, XSLT 등과 같은 주제에 대하여 실습과 함께 학습한다.",
-						
-					},
-				},
-				{
-					name: "마이크로프로세서",
-					grade:3,
-					description: {
-						text: "마이크로프로세서의 기본구조 및 명령어 대하여 배우고, 프로세서 모듈간의 인터페이스 기능을 습득하고 마이크로프로세서 응용분야를 다룬다.",
 						
 					},
 				},
@@ -285,14 +253,6 @@ export const computerScienceCollection = {
 						 grade:3,
 						 description: {
 							 text: "인공지능의 기본적인 개념을 살피고 인공지능 지향의 소프트웨어를 개발할 때 이용되는 문제 해결방법에 중점을 둔다.",
-							
-						 },
-					 },
-					 {
-						 name: "병렬 프로그래밍",
-						 grade:3,
-						 description: {
-							 text: "병렬처리 환경의 소개와 병렬프로그래밍 기법에 대하여 입문수준의 지식을 제공함을 목적으로 한다. 벡터처리기, 멀티코어, 그래픽카드 등 병렬처리 H/W를 활용하는 병렬프로그래밍 API의 사용에 중점을 둔다.",
 							
 						 },
 					 },
