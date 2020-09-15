@@ -276,7 +276,7 @@ export const graphCollection = {
 						skills: [
 							{
 								name: "네트워크관리 역량",
-								grade: 3,
+								finaltech: true,
 								description: {
 									text: "컴퓨터의 내부회로의 기본이 되는 조합 및 순차 논리회로, 기억장치, 레지스터 등의 구성 및 동작원리를 익힌다.효율적이고 명확한 자료의 표현과 처리를 위한 자료구조의 추상적인 정의방법과 기초 자료 구조의 구현법을 다룬다.",
 		
@@ -284,7 +284,7 @@ export const graphCollection = {
 							},
 							{
 								name: "데이터베이스운용 역량",
-								grade: 3,
+								finaltech: true,
 								description: {
 									text: "다중 환경 운영체제로 널리 사용되는 리눅스 시스템의 명령어와 응용프로그램의 사용법을 배우고, 리눅스 서버의 구축 및 관리 방법과 활용하는 방법을 강의하고 실습한다.",
 		
@@ -292,7 +292,7 @@ export const graphCollection = {
 							},
 							{
 								name: "프로그래밍 역량",
-								grade: 3,
+								finaltech: true,
 								description: {
 									text: "다중 환경 운영체제로 널리 사용되는 리눅스 시스템의 명령어와 응용프로그램의 사용법을 배우고, 리눅스 서버의 구축 및 관리 방법과 활용하는 방법을 강의하고 실습한다.",
 		
