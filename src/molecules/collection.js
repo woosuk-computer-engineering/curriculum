@@ -118,25 +118,25 @@ export class Collection extends LitElement {
 		copyToClipboard(`${getShareUrl()}${location.hash}`)
 
 		var woosuk="우석대학교-컴퓨터공학과";
-		var software = "충북대학교-소프트웨어학과";
-		var infor = "충북대학교-정보통신공학부";
-		var easycourse = "sw융합전공-easy코스";
+		var graph = "이수체계도";
+		var future = "졸업-후-진로";
+		var certificate = "취득-자격증";
 		woosuk = encodeURI(woosuk);
-		software = encodeURI(software);
-		infor = encodeURI(infor);
-		easycourse = encodeURI(easycourse);
+		graph = encodeURI(graph);
+		future = encodeURI(future);
+		certificate = encodeURI(certificate);
 
 		if(window.location.href.indexOf(woosuk) > -1){
 			window.open('https://ce.woosuk.ac.kr/2015/inner.php?sMenu=C2000');
 		}
-		else if(window.location.href.indexOf(software) > -1){
-			window.open('https://software.cbnu.ac.kr/include/contents.php?pgID=ID12415887531');
+		else if(window.location.href.indexOf(graph) > -1){
+			window.open('https://ce.woosuk.ac.kr/2015/inner.php?sMenu=C4000');
 		}
-		else if(window.location.href.indexOf(infor) > -1){
-			window.open('http://inform.chungbuk.ac.kr/include/contents.php?pgID=ID15637656472');
+		else if(window.location.href.indexOf(future) > -1){
+			window.open('https://ce.woosuk.ac.kr/2015/inner.php?sMenu=A4000');
 		}
-		else if(window.location.href.indexOf(easycourse) > -1){
-			window.open('http://sw7up.cbnu.ac.kr/convergence-center/easy');
+		else if(window.location.href.indexOf(certificate) > -1){
+			window.open('https://ce.woosuk.ac.kr/2015/inner.php?sMenu=A4000');
 		}
 	}
 

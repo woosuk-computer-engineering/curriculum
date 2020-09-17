@@ -1,5 +1,5 @@
 export const certificateCollection = {
-    name: "자격증",
+    name: "취득 자격증",
     img: "assets/logo/우석대학교.png",
     areas: [
         {

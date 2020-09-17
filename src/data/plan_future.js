@@ -1,5 +1,5 @@
 export const futureCollection = {
-	name: "진로",
+	name: "졸업 후 진로",
 	img:"assets/logo/우석대학교.png",
 	areas: [
 	   {
