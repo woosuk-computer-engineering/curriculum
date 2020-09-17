@@ -119,13 +119,6 @@ export const futureCollection = {
         name: "데이터베이스",
         skills: [
           {
-            name: "DB",
-           
-            description: {
-               text: "데이터베이스(DataBase)의 줄임말로 여러사람들이 공유하고 사용할 목적으로 통합관리되는 정보의 집합 그리고 논리적으로 영관된 하나 이상의 자료의 모음으로, 그내용을 구조화함으로써 검색과 갱신의 효율화를 꾀한 것을 말한다."
-            }
-          },
-          {
             name: "DBA",
           
             description: {
